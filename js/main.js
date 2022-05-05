@@ -67,5 +67,5 @@ dontClickBTN.onmouseover = function () {
 }
 
 dontClickBTN.onclick = function() {
-    alert('Да ты читер')
+    alert('How? You are a cheater!')
 }
